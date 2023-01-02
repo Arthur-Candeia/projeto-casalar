@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: rgba(135, 207, 235, 0.486);
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    width: 100%vw;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+img {
+    border-radius: 100px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+button {
+    color: white;
+    background-color: pink;
+    border-color: lightblue;
+    text-shadow: 2px 1px 3px black;
+    margin-left: 20px;
+    border: none;
+}
+
+button:hover {
+    transition: 200ms ease-in-out;
+    background-color: rgba(148, 0, 211, 0.541);
+    cursor: pointer;
+    color: white;
+}
+
+.btn1 {
+    margin-left: 200px;
+}
+
+p {
+    position: absolute;
+    background-color: rgb(253, 218, 224);
+}
+
+.parte1 { /*parte de cômodos do site */
+    background-color: rgb(253, 218, 224);
+    box-shadow: 3px 3px 10px rgba(0, 0, 139, 0.384);
+    padding: 5px;
+    width: 1300px;
+    height: 330px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.titlesala { /*títulos da parte1 */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 180px;
+    font-weight: bold;
+}
+
+.titlequarto {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 475px;
+    font-weight: bold;
+}
+
+.titlebanheiro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 767px;
+    font-weight: bold;
+}
+
+.titlecozinha {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 1075px;
+    font-weight: bold;
+}
+
+.parte2 {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 700px;
+    height: 350px;
+    background-color: rgb(253, 218, 224);
+    box-shadow: 3px 3px 10px rgba(0, 0, 139, 0.384);
+    padding: 5px;
+    border-radius: 30px;
+}
+
