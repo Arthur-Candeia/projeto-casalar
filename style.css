@@ -67,7 +67,7 @@ p {
 .titlesala { /*títulos da parte1 */
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 1%;
     margin-left: 180px;
     font-weight: bold;
 }
@@ -75,7 +75,7 @@ p {
 .titlequarto {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 1%;
     margin-left: 475px;
     font-weight: bold;
 }
@@ -83,7 +83,7 @@ p {
 .titlebanheiro {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 1%;
     margin-left: 767px;
     font-weight: bold;
 }
@@ -91,7 +91,7 @@ p {
 .titlecozinha {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 1%;
     margin-left: 1075px;
     font-weight: bold;
 }
